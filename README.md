@@ -22,6 +22,12 @@
 <img src ="	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>&nbsp;
 
+## Let's connect:
+
+<a href="https://www.twitter.com/haddercone"><img src =" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "/>&nbsp;</a>
+<a href="https://www.linkedin.com/in/haddercone">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <br/>
 
 <div style="display:flex; align-items:center; gap:1rem;flex-wrap:wrap;">
@@ -29,14 +35,5 @@
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats)
-
-</div>
-
-## Social:
-
-<div>
-
-<img src =" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "/>&nbsp;
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
