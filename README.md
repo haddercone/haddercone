@@ -21,13 +21,16 @@
 <img src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>&nbsp;
 <img src ="	https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>&nbsp;
-<img src=""/>&nbsp;
-<img src=""/>&nbsp;
-<img src=""/>&nbsp;
+
 <br/>
-| | |
-|---|---|
-|![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats) |
+
+<div style="display:flex; align-items:center; gap:1rem;flex-wrap:wrap;">
+
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats)
+
+</div>
 
 ## Social:
 
