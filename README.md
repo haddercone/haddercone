@@ -13,6 +13,7 @@
 <img src ="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
 <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
 <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+<img src ="https://img.shields.io/badge/PYTHON-FFFFFF?style=for-the-badge&logo=python&logoColor=blue"/>&nbsp;
 
 ## Tools:
 
@@ -24,10 +25,10 @@
 
 ## Let's connect:
 
+<a href="https://www.twitter.com/haddercone"><img src =" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "/>&nbsp;</a>
 <a href="https://www.linkedin.com/in/haddercone">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>&nbsp;
-<a href="https://www.twitter.com/haddercone"><img src =" https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "/></a>
+</a>
 <br/>
 
 <div style="display:flex; align-items:center; gap:1rem;flex-wrap:wrap;">
