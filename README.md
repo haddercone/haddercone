@@ -40,8 +40,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats)
 
 </div>
-<br/>
-
-## Featured:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=haddercone&repo=Namaste-React&show_owner=true)](https://github.com/haddercone/github-readme-stats)
