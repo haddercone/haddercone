@@ -34,9 +34,9 @@
 <br/>
 
 
-![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
+<!-- ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats)
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact)](https://github.com/haddercone/github-readme-stats) -->
+
 
