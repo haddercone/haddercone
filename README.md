@@ -57,6 +57,5 @@
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=haddercone&theme=radical)](https://git.io/streak-stats)
-|
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact&theme=radical)](https://github.com/haddercone/github-readme-stats) -->
