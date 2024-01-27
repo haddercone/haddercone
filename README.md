@@ -53,12 +53,10 @@
 <a href="https://www.linkedin.com/in/haddercone">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://discordapp.com/users/925643808375468094">![](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)</a>
 
-
 ## My stats:
 
-|                                                                                                                     |                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react) | [![GitHub Streak](https://streak-stats.demolab.com/?user=haddercone&theme=radical)](https://git.io/streak-stats) |
-|                                                                                                                     |                                                                                                                  |
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=haddercone&theme=radical)](https://git.io/streak-stats)
+|
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact&theme=radical)](https://github.com/haddercone/github-readme-stats) -->
