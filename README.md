@@ -60,6 +60,7 @@
 ## My stats:
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddercone&show_icons=true&theme=react)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=haddercone&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haddercone&theme=dark&card_width=468&background=45%2C010104%2C0F1663&border=D2E9EB&stroke=A6E7EB&ring=75EBD1&fire=5D6EEB&currStreakNum=C4D6EB&sideNums=EBEBEB&currStreakLabel=5CA3EB&dates=31EBD3)](https://git.io/streak-stats)
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddercone&layout=compact&theme=radical)](https://github.com/haddercone/github-readme-stats) -->
